@@ -14,7 +14,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/jefersonvillacis/jee-msa-web-demo-pipeline.git
+      uri: https://github.com/patazureprueba/jee-msa-web-demo-pipeline
   strategy:
     type: Docker
   output:
